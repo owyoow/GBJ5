@@ -3,16 +3,16 @@
   project : {
 
       //These first two are required
-    name : 'empty',
+    name : 'gbjam5',
     version : '1.0.0',
-    author : 'luxeengine',
+    author : 'Owyoow Interactive',
 
       //This configures your app.
       //The package is important, it's used 
       //for save locations, initializing mobile project files etc
     app : {
-      name : 'luxe_empty',
-      package : 'com.luxeengine.empty'
+      name : 'jbjam5',
+      package : 'com.owyoow.gbjam5'
     },
 
       //This configures the build process
